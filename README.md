@@ -1,3 +1,12 @@
+
+
+#Projeto desenvolvido com a proway durante o treinamento da capgemini.
+#O site simula um e-commerce de hardwares.
+#acesse a pagina:
+https://reinan-alves.github.io/proway-computers/produtos
+
+
+
 # ProwayComputers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
