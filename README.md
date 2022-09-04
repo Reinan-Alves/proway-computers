@@ -1,8 +1,8 @@
 
 
-#Projeto desenvolvido com a proway durante o treinamento da capgemini.
-#O site simula um e-commerce de hardwares.
-#acesse a pagina:
+#Projeto desenvolvido com a proway durante o treinamento da capgemini.<br>
+#O site simula um e-commerce de hardwares.<br>
+#acesse a pagina:<br>
 https://reinan-alves.github.io/proway-computers/produtos
 
 
